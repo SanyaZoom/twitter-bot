@@ -1,1 +1,1 @@
-worker: node 11-spreadsheets/index.js
+worker: node index.js
