@@ -1,5 +1,5 @@
 {
-    "name": "9-photoanalysis",
+    "name": "2-statuses",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -12,3 +12,5 @@
         "twit": "^2.2.5"
     }
 }
+
+
